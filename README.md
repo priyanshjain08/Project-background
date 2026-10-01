@@ -17,4 +17,4 @@ A simple HTML and CSS project featuring a peaceful night-sky camping scene. The 
 - `Capture.PNG` — Background image
 
 ## How to Run
-Open `Assignment 1.html` in any modern web browser.
+Site live at https://priyanshjain08.github.io/Project-background/
